@@ -1,6 +1,6 @@
 """
 AI SaaS Customer Churn Prediction
-----------------------------------
+
 End-to-end ML pipeline: load data -> engineer features -> train classifiers
 -> evaluate -> save the best model.
 
